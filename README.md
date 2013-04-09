@@ -1,4 +1,4 @@
 GSoC2013
 ========
 
-BalaBit's project ideas for the Google Summer of Code 2013 program, please see the [wiki](https://github.com/balabit/GSoC2013/wiki).
+Unfortunately, BalaBit was not selected to participate in the Google Summer of Code 2013 program. The [idea list](https://github.com/balabit/GSoC2013/wiki) is still available on the Wiki though, for historical reference.
